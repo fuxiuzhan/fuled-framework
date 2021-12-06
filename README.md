@@ -31,7 +31,8 @@ nuxes:http://nexus.fuled.xyz:8081/repository/maven_2rd/
 结构类似于如下，先凑合着看，总结的结构为fuled-framework-demo->fuled-boot->fuled-services-starter->fuled-compent-XXX->fuled-compent->fuled-framework
 
 #### 
-
+图无法显示可参考：
+https://markdown.fuled.xyz:8443/s/0PNYqTOPl
 ```graphviz
 digraph hierarchy {
   nodesep=1.0 
