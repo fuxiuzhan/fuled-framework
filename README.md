@@ -22,9 +22,9 @@
  - 整合已知的最佳实践，避免踩同样的坑
 
 #### 演示地址
-nacos：http://prd.nacos.fuled.xyz:8848/nacos/
-nacos：nacos/fuxiuzhan
-nuxes:http://nexus.fuled.xyz:8081/repository/maven_2rd/
+- nacos：http://prd.nacos.fuled.xyz:8848/nacos/
+- nacos：nacos/fuxiuzhan
+- nuxes:http://nexus.fuled.xyz:8081/repository/maven_2rd/
 
 ### 项目依赖结构
 
